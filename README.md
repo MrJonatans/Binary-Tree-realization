@@ -1,1 +1,1 @@
-My first +- serious attempt at programming on Rust (hehe)
+My first +- serious attempt at programming on Rust. (hehe)
